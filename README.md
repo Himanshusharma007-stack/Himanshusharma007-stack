@@ -11,13 +11,12 @@ Gist About Me
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds.
 ---
 
-###Other places you can find me
+### Other places you can find me
 
 🏀 [Instagram](https://instagram.com/himanshusharma.live/)
 
 🐣 [See my Tweet](https://twitter.com/Himansh72232162)
 
-###
 ---
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I like front-end development with React/Gatsby/Vue/TS/Redwood and sometimes Node. I love trying out new technologies and update with modern tools helping our lives more easier.
