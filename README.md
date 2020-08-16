@@ -19,7 +19,7 @@ Gist About Me
 
 ---
 
-I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I like front-end development with React/Gatsby/Vue/TS/Redwood and sometimes Node. I love trying out new technologies and update with modern tools helping our lives more easier.
+I strongly believe we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives more easier.
 
 >Keep Smiling and Work Harder.. Happy coding !!
 ---
