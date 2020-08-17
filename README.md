@@ -1,4 +1,5 @@
 ![Image](https://learncodeonline.in/mascot.png "Hiamnshu Sharma") 
+[![HitCount](http://hits.dwyl.com/Himanshusharma007-stack/Himanshusharma007-stack.svg)](http://hits.dwyl.com/Himanshusharma007-stack/Himanshusharma007-stack)
 ### Hi there it's me Himanshu 👋
 
 Gist About Me
