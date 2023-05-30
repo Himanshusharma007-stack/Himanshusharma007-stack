@@ -5,7 +5,6 @@ Gist About Me
 
 - 🛸 I am an enthusiast programmer and have the knowledge of MEVN stack.
 - 🌋 I’m always looking for challenging work opportunities ahead.
-- 💬 Actively I writing Blogs [Check it out!](https://babyluvcentre.blogspot.com/2019/11/baby-luv-centre.html?fbclid=IwAR1tfDCPpkSDgyXgzR4Ag7rutE74G_YeSJ93CEt-xLyRLrfkkzeFTQov9W0)
 - 📫 How to reach me: <a href= "mailto:hishrma00@gmail.com">Let's get in touch!</a>
 - 🤔 My hobby is running, playing cricket and listening music.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds.
